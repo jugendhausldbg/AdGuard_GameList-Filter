@@ -9519,9 +9519,6 @@ sites.google.com/site/unblockurgames
 ||stci.qc.ca^
 ||stealth-gamer.com^
 ||steam-trek.com^
-||steamgifts.com^
-||steampower1830.com^
-||steamstatic.com^
 ||steelpanda.com^
 ||steinke.net^
 ||steinzeitspiel.de^
