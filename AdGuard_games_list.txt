@@ -2324,7 +2324,6 @@ sites.google.com/site/unblockurgames
 ||eotl.org^
 ||epic-war.net^
 ||epicadventures.8m.net^
-||epicgameads.com^
 ||epmgames.com^
 ||eponagirl.deviantart.com^
 ||eq2.ogaming.com^
@@ -6635,7 +6634,6 @@ sites.google.com/site/unblockurgames
 ||le8gagnant.com^
 ||leadium.com^
 ||leaguecraft.com^
-||leagueoflegends.com^
 ||learngames.com^
 ||learntofly3unblocked.com^
 ||lebourricot.com^
