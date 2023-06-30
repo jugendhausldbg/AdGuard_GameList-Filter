@@ -2325,7 +2325,6 @@ sites.google.com/site/unblockurgames
 ||epic-war.net^
 ||epicadventures.8m.net^
 ||epicgameads.com^
-||epicgames.com^
 ||epmgames.com^
 ||eponagirl.deviantart.com^
 ||eq2.ogaming.com^
@@ -9522,12 +9521,8 @@ sites.google.com/site/unblockurgames
 ||stci.qc.ca^
 ||stealth-gamer.com^
 ||steam-trek.com^
-||steamcommunity.com^
-||steamcontent.com^
-||steamgames.com^
 ||steamgifts.com^
 ||steampower1830.com^
-||steampowered.com^
 ||steamstatic.com^
 ||steelpanda.com^
 ||steinke.net^
