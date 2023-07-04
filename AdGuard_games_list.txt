@@ -7133,7 +7133,6 @@ sites.google.com/site/unblockurgames
 ||minecraft-gratuit.fr^
 ||minecraft.fr^
 ||minecraft.funetvitriol.fr^
-||minecraft.net^
 ||minecraftgames2.com^
 ||minecrafthelp.net^
 ||minefield.fr^
